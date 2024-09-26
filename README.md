@@ -2,7 +2,7 @@
 
 ## What's this?
 
-An unofficial Mental Omega 3 repack for linux.
+An unofficial Mental Omega 3.3.6 repack for linux.
 
 ## What's in it?
 
@@ -11,6 +11,10 @@ An unofficial Mental Omega 3 repack for linux.
 - Binary-patched version of Syringe.exe to use with wine
 - Auxiliary scripts for linux
 - ALL game resources needed for playing
+
+## Requirements
+
+recent version of `wine`
 
 ## How to?
 
